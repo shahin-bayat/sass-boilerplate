@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Yekan';
+  src: url('iranyekan/Yekan.eot'); /* IE9 Compat Modes */
+  src: url('iranyekan/Yekan.eot?#iefix') format('embedded-opentype'),
+    /* Super Modern Browsers */ url('iranyekan/Yekan.woff') format('woff'),
+    /* Pretty Modern Browsers */ url('iranyekan/Yekan.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('iranyekan/Yekan.svg#svgFontName')
+      format('svg'); /* Legacy iOS */
+}
